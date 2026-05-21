@@ -11,3 +11,10 @@ Experimental routing layer for distributing prompts between different LLM provid
 ## Current Status
 
 Work in progress.
+
+---
+
+- package.json
+- tsconfig.json
+- empty src folder
+
