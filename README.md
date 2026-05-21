@@ -14,7 +14,5 @@ Work in progress.
 
 ---
 
-- package.json
-- tsconfig.json
-- empty src folder
-
+- bootstrap project
+- add request queue handling
