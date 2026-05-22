@@ -16,3 +16,4 @@ Work in progress.
 
 - bootstrap project
 - add request queue handling
+- Reviewing AMM basics
