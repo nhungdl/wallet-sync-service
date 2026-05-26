@@ -18,3 +18,4 @@ Work in progress.
 - add request queue handling
 - Reviewing AMM basics
 - Studying proof of stake
+- Reviewing governance
