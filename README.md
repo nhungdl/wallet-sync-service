@@ -19,3 +19,4 @@ Work in progress.
 - Reviewing AMM basics
 - Studying proof of stake
 - Reviewing governance
+- Refining formatting
