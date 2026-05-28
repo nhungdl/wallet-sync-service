@@ -20,3 +20,4 @@ Work in progress.
 - Studying proof of stake
 - Reviewing governance
 - Refining formatting
+- Updating markdown
