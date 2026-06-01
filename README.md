@@ -22,3 +22,6 @@ Work in progress.
 - Refining formatting
 - Updating markdown
 - Improving markdown flow
+
+## June
+- Studying tokenomics
