@@ -26,3 +26,4 @@ Work in progress.
 ## June
 - Studying tokenomics
 - Studying bridges
+- Learning staking flow
