@@ -27,3 +27,4 @@ Work in progress.
 - Studying tokenomics
 - Studying bridges
 - Learning staking flow
+- Studying audit cases
