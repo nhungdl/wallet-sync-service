@@ -28,3 +28,4 @@ Work in progress.
 - Studying bridges
 - Learning staking flow
 - Studying audit cases
+- Exploring staking pools
