@@ -29,3 +29,4 @@ Work in progress.
 - Learning staking flow
 - Studying audit cases
 - Exploring staking pools
+- Studying scaling solutions
