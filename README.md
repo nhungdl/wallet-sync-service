@@ -30,3 +30,4 @@ Work in progress.
 - Studying audit cases
 - Exploring staking pools
 - Studying scaling solutions
+- Adding reflections
