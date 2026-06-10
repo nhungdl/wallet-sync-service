@@ -31,3 +31,4 @@ Work in progress.
 - Exploring staking pools
 - Studying scaling solutions
 - Adding reflections
+- Adding notes
