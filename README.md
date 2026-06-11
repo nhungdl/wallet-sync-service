@@ -32,3 +32,4 @@ Work in progress.
 - Studying scaling solutions
 - Adding reflections
 - Adding notes
+- Adding documentation
