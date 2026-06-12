@@ -33,3 +33,4 @@ Work in progress.
 - Adding reflections
 - Adding notes
 - Adding documentation
+- Adding insights
