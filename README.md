@@ -35,3 +35,4 @@ Work in progress.
 - Adding documentation
 - Adding insights
 - Adding insights
+- Understanding branches and merge concepts.
