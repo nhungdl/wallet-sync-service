@@ -36,3 +36,4 @@ Work in progress.
 - Adding insights
 - Adding insights
 - Understanding branches and merge concepts.
+- Improving markdown formatting skills.
