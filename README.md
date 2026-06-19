@@ -38,3 +38,4 @@ Work in progress.
 - Understanding branches and merge concepts.
 - Improving markdown formatting skills.
 - Structuring README more clearly.
+- Improving repository organization.
