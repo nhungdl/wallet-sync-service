@@ -39,3 +39,4 @@ Work in progress.
 - Improving markdown formatting skills.
 - Structuring README more clearly.
 - Improving repository organization.
+- Improving commit consistency.
