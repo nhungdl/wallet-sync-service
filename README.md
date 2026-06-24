@@ -40,3 +40,4 @@ Work in progress.
 - Structuring README more clearly.
 - Improving repository organization.
 - Improving commit consistency.
+- Reviewing cross-chain concepts
