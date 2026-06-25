@@ -41,3 +41,4 @@ Work in progress.
 - Improving repository organization.
 - Improving commit consistency.
 - Reviewing cross-chain concepts
+- Exploring wallet security practices.
