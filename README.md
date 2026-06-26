@@ -42,3 +42,4 @@ Work in progress.
 - Improving commit consistency.
 - Reviewing cross-chain concepts
 - Exploring wallet security practices.
+- Understanding common smart contract risks.
