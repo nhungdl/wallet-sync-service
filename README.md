@@ -43,3 +43,4 @@ Work in progress.
 - Reviewing cross-chain concepts
 - Exploring wallet security practices.
 - Understanding common smart contract risks.
+- Exploring backend integration ideas.
