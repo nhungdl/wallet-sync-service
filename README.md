@@ -44,3 +44,4 @@ Work in progress.
 - Exploring wallet security practices.
 - Understanding common smart contract risks.
 - Exploring backend integration ideas.
+- Understanding digital signatures.
