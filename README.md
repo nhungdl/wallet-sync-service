@@ -45,6 +45,8 @@ Work in progress.
 - Understanding common smart contract risks.
 - Exploring backend integration ideas.
 - Understanding digital signatures.
-
+- Reviewing token supply models.
+  
 ## July
 - Continuing my open source development journey
+- Reviewing token supply models.
