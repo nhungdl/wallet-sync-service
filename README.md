@@ -50,3 +50,4 @@ Work in progress.
 ## July
 - Continuing my open source development journey
 - Reviewing token supply models.
+- Exploring upgradeable contract design.
