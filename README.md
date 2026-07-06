@@ -51,3 +51,4 @@ Work in progress.
 - Continuing my open source development journey
 - Reviewing token supply models.
 - Exploring upgradeable contract design.
+- Learning how smart contracts interact with frontends.
