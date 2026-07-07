@@ -52,3 +52,4 @@ Work in progress.
 - Reviewing token supply models.
 - Exploring upgradeable contract design.
 - Learning how smart contracts interact with frontends.
+- Learning about access control in contracts.
