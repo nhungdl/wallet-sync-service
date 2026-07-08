@@ -53,3 +53,4 @@ Work in progress.
 - Exploring upgradeable contract design.
 - Learning how smart contracts interact with frontends.
 - Learning about access control in contracts.
+- Exploring RPC provider differences.
