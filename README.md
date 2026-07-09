@@ -54,3 +54,4 @@ Work in progress.
 - Learning how smart contracts interact with frontends.
 - Learning about access control in contracts.
 - Exploring RPC provider differences.
+- Reviewing automated market maker models.
