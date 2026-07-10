@@ -55,3 +55,4 @@ Work in progress.
 - Learning about access control in contracts.
 - Exploring RPC provider differences.
 - Reviewing automated market maker models.
+- Learning about node synchronization process.
