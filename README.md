@@ -56,3 +56,4 @@ Work in progress.
 - Exploring RPC provider differences.
 - Reviewing automated market maker models.
 - Learning about node synchronization process.
+- Reviewing blockchain logging patterns.
