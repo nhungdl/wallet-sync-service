@@ -57,3 +57,4 @@ Work in progress.
 - Reviewing automated market maker models.
 - Learning about node synchronization process.
 - Reviewing blockchain logging patterns.
+- Improving structured development timeline.
