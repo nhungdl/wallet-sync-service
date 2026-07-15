@@ -58,3 +58,4 @@ Work in progress.
 - Learning about node synchronization process.
 - Reviewing blockchain logging patterns.
 - Improving structured development timeline.
+- Studying borrowing collateral models.
