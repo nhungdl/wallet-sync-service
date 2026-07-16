@@ -59,3 +59,4 @@ Work in progress.
 - Reviewing blockchain logging patterns.
 - Improving structured development timeline.
 - Studying borrowing collateral models.
+- Studying decentralized hosting options.
