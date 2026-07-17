@@ -60,3 +60,4 @@ Work in progress.
 - Improving structured development timeline.
 - Studying borrowing collateral models.
 - Studying decentralized hosting options.
+- Adding more incremental documentation updates.
