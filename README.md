@@ -61,3 +61,4 @@ Work in progress.
 - Studying borrowing collateral models.
 - Studying decentralized hosting options.
 - Adding more incremental documentation updates.
+- Writing cleaner documentation.
