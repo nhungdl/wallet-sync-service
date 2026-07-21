@@ -62,3 +62,4 @@ Work in progress.
 - Studying decentralized hosting options.
 - Adding more incremental documentation updates.
 - Writing cleaner documentation.
+- Learning about GitHub collaboration tools.
