@@ -63,3 +63,4 @@ Work in progress.
 - Adding more incremental documentation updates.
 - Writing cleaner documentation.
 - Learning about GitHub collaboration tools.
+- Learning about gas optimization.
