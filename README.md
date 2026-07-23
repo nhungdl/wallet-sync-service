@@ -64,3 +64,4 @@ Work in progress.
 - Writing cleaner documentation.
 - Learning about GitHub collaboration tools.
 - Learning about gas optimization.
+- Learning about token standards.
