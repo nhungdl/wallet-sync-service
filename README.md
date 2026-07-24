@@ -65,3 +65,4 @@ Work in progress.
 - Learning about GitHub collaboration tools.
 - Learning about gas optimization.
 - Learning about token standards.
+- Studying blockchain scalability solutions.
