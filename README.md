@@ -66,3 +66,4 @@ Work in progress.
 - Learning about gas optimization.
 - Learning about token standards.
 - Studying blockchain scalability solutions.
+- Improving markdown headings structure.
