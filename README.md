@@ -67,3 +67,4 @@ Work in progress.
 - Learning about token standards.
 - Studying blockchain scalability solutions.
 - Improving markdown headings structure.
+- Refining project description.
