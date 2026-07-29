@@ -68,3 +68,4 @@ Work in progress.
 - Studying blockchain scalability solutions.
 - Improving markdown headings structure.
 - Refining project description.
+- Reviewing governance token models.
