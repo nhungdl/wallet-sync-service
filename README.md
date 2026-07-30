@@ -69,3 +69,4 @@ Work in progress.
 - Improving markdown headings structure.
 - Refining project description.
 - Reviewing governance token models.
+- Exploring consensus validation process.
