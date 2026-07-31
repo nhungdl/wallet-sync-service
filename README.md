@@ -70,3 +70,4 @@ Work in progress.
 - Refining project description.
 - Reviewing governance token models.
 - Exploring consensus validation process.
+- Refining learning roadmap.
