@@ -71,3 +71,6 @@ Work in progress.
 - Reviewing governance token models.
 - Exploring consensus validation process.
 - Refining learning roadmap.
+
+## August
+- Reviewing debugging strategies.
