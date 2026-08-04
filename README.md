@@ -74,3 +74,4 @@ Work in progress.
 
 ## August
 - Reviewing debugging strategies.
+- Exploring staking reward mechanisms.
