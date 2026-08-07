@@ -77,3 +77,4 @@ Work in progress.
 - Exploring staking reward mechanisms.
 - Improving documentation flow again.
 - Learning about event listeners in smart contracts.
+- Reviewing authentication mechanisms.
