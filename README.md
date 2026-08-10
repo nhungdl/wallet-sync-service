@@ -78,3 +78,4 @@ Work in progress.
 - Improving documentation flow again.
 - Learning about event listeners in smart contracts.
 - Reviewing authentication mechanisms.
+- Reviewing liquidation mechanisms.
