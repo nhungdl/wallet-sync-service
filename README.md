@@ -79,3 +79,4 @@ Work in progress.
 - Learning about event listeners in smart contracts.
 - Reviewing authentication mechanisms.
 - Reviewing liquidation mechanisms.
+- Reviewing smart contract deployment networks.
