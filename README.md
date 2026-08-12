@@ -80,3 +80,4 @@ Work in progress.
 - Reviewing authentication mechanisms.
 - Reviewing liquidation mechanisms.
 - Reviewing smart contract deployment networks.
+- Strengthening understanding of smart contract logic.
