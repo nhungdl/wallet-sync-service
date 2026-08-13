@@ -81,3 +81,4 @@ Work in progress.
 - Reviewing liquidation mechanisms.
 - Reviewing smart contract deployment networks.
 - Strengthening understanding of smart contract logic.
+- Studying EVM basics
