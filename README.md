@@ -82,3 +82,4 @@ Work in progress.
 - Reviewing smart contract deployment networks.
 - Strengthening understanding of smart contract logic.
 - Studying EVM basics
+- Studying signatures
