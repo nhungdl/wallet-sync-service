@@ -83,3 +83,4 @@ Work in progress.
 - Strengthening understanding of smart contract logic.
 - Studying EVM basics
 - Studying signatures
+- Studying transaction lifecycle
