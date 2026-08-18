@@ -84,3 +84,4 @@ Work in progress.
 - Studying EVM basics
 - Studying signatures
 - Studying transaction lifecycle
+- Exploring automation
