@@ -85,3 +85,4 @@ Work in progress.
 - Studying signatures
 - Studying transaction lifecycle
 - Exploring automation
+- Reviewing smart contracts
