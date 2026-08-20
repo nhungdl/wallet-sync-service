@@ -86,3 +86,4 @@ Work in progress.
 - Studying transaction lifecycle
 - Exploring automation
 - Reviewing smart contracts
+- Reviewing wallet security
