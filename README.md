@@ -87,3 +87,4 @@ Work in progress.
 - Exploring automation
 - Reviewing smart contracts
 - Reviewing wallet security
+- Exploring backend links
