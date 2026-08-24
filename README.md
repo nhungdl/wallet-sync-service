@@ -88,3 +88,4 @@ Work in progress.
 - Reviewing smart contracts
 - Reviewing wallet security
 - Exploring backend links
+- Studying zk rollups
