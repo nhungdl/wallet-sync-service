@@ -89,3 +89,4 @@ Work in progress.
 - Reviewing wallet security
 - Exploring backend links
 - Studying zk rollups
+- Reviewing DAO governance
