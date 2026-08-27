@@ -90,3 +90,4 @@ Work in progress.
 - Exploring backend links
 - Studying zk rollups
 - Reviewing DAO governance
+- Studying oracle feeds
