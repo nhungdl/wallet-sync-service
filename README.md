@@ -91,3 +91,4 @@ Work in progress.
 - Studying zk rollups
 - Reviewing DAO governance
 - Studying oracle feeds
+- Learning Git workflow
