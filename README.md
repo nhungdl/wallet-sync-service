@@ -92,3 +92,6 @@ Work in progress.
 - Reviewing DAO governance
 - Studying oracle feeds
 - Learning Git workflow
+
+# September
+- Organizing notes
