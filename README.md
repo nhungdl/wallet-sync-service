@@ -96,3 +96,4 @@ Work in progress.
 # September
 - Organizing notes
 - Refining headings
+- Updating roadmap
