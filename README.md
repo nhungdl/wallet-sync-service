@@ -97,3 +97,4 @@ Work in progress.
 - Organizing notes
 - Refining headings
 - Updating roadmap
+- Improving clarity
