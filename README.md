@@ -98,3 +98,4 @@ Work in progress.
 - Refining headings
 - Updating roadmap
 - Improving clarity
+- Studying Web3 ecosystem
