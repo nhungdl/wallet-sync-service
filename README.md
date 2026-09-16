@@ -99,3 +99,4 @@ Work in progress.
 - Updating roadmap
 - Improving clarity
 - Studying Web3 ecosystem
+- Reviewing testing
