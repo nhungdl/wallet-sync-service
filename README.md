@@ -100,3 +100,4 @@ Work in progress.
 - Improving clarity
 - Studying Web3 ecosystem
 - Reviewing testing
+- Learning staking flow
