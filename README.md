@@ -101,3 +101,4 @@ Work in progress.
 - Studying Web3 ecosystem
 - Reviewing testing
 - Learning staking flow
+- Studying APIs
