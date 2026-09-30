@@ -103,3 +103,4 @@ Work in progress.
 - Learning staking flow
 - Studying APIs
 - Reviewing DAO voting
+- Studying testing again
