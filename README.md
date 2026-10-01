@@ -104,3 +104,6 @@ Work in progress.
 - Studying APIs
 - Reviewing DAO voting
 - Studying testing again
+
+# Octover
+- Studying scaling solutions
