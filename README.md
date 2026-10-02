@@ -107,3 +107,4 @@ Work in progress.
 
 # Octover
 - Studying scaling solutions
+- Learning about smart contracts.
