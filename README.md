@@ -108,3 +108,4 @@ Work in progress.
 # Octover
 - Studying scaling solutions
 - Learning about smart contracts.
+- Exploring the Base ecosystem.
