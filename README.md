@@ -109,3 +109,4 @@ Work in progress.
 - Studying scaling solutions
 - Learning about smart contracts.
 - Exploring the Base ecosystem.
+- Tracking daily coding progress.
