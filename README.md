@@ -110,3 +110,4 @@ Work in progress.
 - Learning about smart contracts.
 - Exploring the Base ecosystem.
 - Tracking daily coding progress.
+- Learning about gas optimization.
