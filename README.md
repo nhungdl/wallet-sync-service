@@ -111,3 +111,4 @@ Work in progress.
 - Exploring the Base ecosystem.
 - Tracking daily coding progress.
 - Learning about gas optimization.
+- Exploring NFT standards briefly.
