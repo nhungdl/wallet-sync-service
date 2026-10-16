@@ -112,3 +112,4 @@ Work in progress.
 - Tracking daily coding progress.
 - Learning about gas optimization.
 - Exploring NFT standards briefly.
+- Reviewing cross-chain concepts
