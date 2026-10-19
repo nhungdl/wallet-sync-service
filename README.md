@@ -113,3 +113,4 @@ Work in progress.
 - Learning about gas optimization.
 - Exploring NFT standards briefly.
 - Reviewing cross-chain concepts
+- Exploring wallet security practices.
