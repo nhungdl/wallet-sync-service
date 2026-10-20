@@ -114,3 +114,4 @@ Work in progress.
 - Exploring NFT standards briefly.
 - Reviewing cross-chain concepts
 - Exploring wallet security practices.
+- Structuring development tasks better.
