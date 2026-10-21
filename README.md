@@ -115,3 +115,4 @@ Work in progress.
 - Reviewing cross-chain concepts
 - Exploring wallet security practices.
 - Structuring development tasks better.
+- Studying API documentation structure.
