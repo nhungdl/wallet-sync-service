@@ -116,3 +116,4 @@ Work in progress.
 - Exploring wallet security practices.
 - Structuring development tasks better.
 - Studying API documentation structure.
+- Understanding digital signatures.
