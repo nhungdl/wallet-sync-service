@@ -117,3 +117,4 @@ Work in progress.
 - Structuring development tasks better.
 - Studying API documentation structure.
 - Understanding digital signatures.
+- Summarizing current development stage.
