@@ -118,3 +118,4 @@ Work in progress.
 - Studying API documentation structure.
 - Understanding digital signatures.
 - Summarizing current development stage.
+- Exploring staking reward mechanisms.
