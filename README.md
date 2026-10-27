@@ -119,3 +119,4 @@ Work in progress.
 - Understanding digital signatures.
 - Summarizing current development stage.
 - Exploring staking reward mechanisms.
+- Exploring upgradeable contract design.
