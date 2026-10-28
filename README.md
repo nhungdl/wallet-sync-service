@@ -120,3 +120,4 @@ Work in progress.
 - Summarizing current development stage.
 - Exploring staking reward mechanisms.
 - Exploring upgradeable contract design.
+- Learning about blockchain indexing services.
