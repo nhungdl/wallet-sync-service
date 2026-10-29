@@ -121,3 +121,4 @@ Work in progress.
 - Exploring staking reward mechanisms.
 - Exploring upgradeable contract design.
 - Learning about blockchain indexing services.
+- Exploring RPC provider differences.
