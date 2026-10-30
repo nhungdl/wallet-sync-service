@@ -122,3 +122,4 @@ Work in progress.
 - Exploring upgradeable contract design.
 - Learning about blockchain indexing services.
 - Exploring RPC provider differences.
+- Reviewing automated market maker models.
