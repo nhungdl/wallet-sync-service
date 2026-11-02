@@ -123,3 +123,6 @@ Work in progress.
 - Learning about blockchain indexing services.
 - Exploring RPC provider differences.
 - Reviewing automated market maker models.
+
+## November
+- Learning about node synchronization process.
