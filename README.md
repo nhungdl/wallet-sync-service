@@ -126,3 +126,4 @@ Work in progress.
 
 ## November
 - Learning about node synchronization process.
+- Exploring REST API integration concepts.
